@@ -1,0 +1,36 @@
+
+.cardBox{
+margin-top: 30px;
+    
+}
+
+.cardBox:hover{
+    background-color: rgb(252, 242, 242);
+    cursor:pointer;
+}
+
+.card-wrapper{
+    margin-top: 10px;
+}
+
+.cardImg{
+    height: 250px;
+    width: 270px;
+    padding: 15px;
+    
+}
+
+.btn{
+    margin-right: 20px;
+    float: right;
+}
+
+.navBtn{
+    margin-right: 40px;
+    border-bottom: 1px solid gray;
+    padding: 15px 15px;
+}
+
+.navHead{
+background-color: aqua;
+}
